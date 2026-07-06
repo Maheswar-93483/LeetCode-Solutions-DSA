@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
