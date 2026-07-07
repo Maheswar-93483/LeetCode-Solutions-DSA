@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
