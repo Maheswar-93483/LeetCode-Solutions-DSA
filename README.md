@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
