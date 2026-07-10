@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0066-plus-one) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Maheswar-93483/LeetCode-Solutions-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
